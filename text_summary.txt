@@ -1,0 +1,37 @@
+
+Top words in positive tweets:
+
+healthcare: 1
+transforming: 1
+patient: 1
+care: 1
+helps: 1
+detect: 1
+diseases: 1
+faster: 1
+impressive: 1
+tech: 1
+
+Top words in neutral tweets:
+
+such: 1
+fast: 1
+results: 1
+using: 1
+aibased: 1
+diagnostics: 1
+future: 1
+medicine: 1
+
+Top words in negative tweets:
+
+doctors: 2
+dont: 1
+trust: 1
+think: 1
+will: 1
+take: 1
+over: 1
+human: 1
+scary: 1
+misdiagnosed: 1
