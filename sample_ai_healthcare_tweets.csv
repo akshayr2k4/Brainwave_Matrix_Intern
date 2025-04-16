@@ -1,0 +1,11 @@
+tweet_id,text,created_at,polarity,sentiment
+1001,AI healthcare is revolutionizing diagnostics!,2024-04-01,0.0,neutral
+1002,I had a terrible experience with the hospital's AI system.,2024-04-02,-1.0,negative
+1003,Not sure if AI in healthcare is a good idea...,2024-04-03,0.22499999999999998,positive
+1004,Loving how AI is helping doctors make faster decisions.,2024-04-04,0.6,positive
+1005,"AI is just replacing humans in healthcare, not helping.",2024-04-05,0.0,neutral
+1006,AI-based diagnosis saved my mother's life.,2024-04-06,0.0,neutral
+1007,Too many errors in the AI prescription system!,2024-04-07,0.625,positive
+1008,AI can really improve rural healthcare if used properly.,2024-04-08,0.06666666666666667,positive
+1009,AI in healthcare is still a work in progress.,2024-04-09,0.0,neutral
+10010,Super impressed with AI chatbot for medical advice!,2024-04-10,0.4444444444444444,positive
